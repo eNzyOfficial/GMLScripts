@@ -17,8 +17,11 @@ Just some of the features of this repo:
 	* PubSub
 	* Singleton
 	* State Machine
-* Pathfinding
+* AI
 	* AStar `node based`
+	* Target system
+* Data structure functions
+* Drawing shapes
 * `Easing` functions
 * `Rectangle` functions
 * `String` functions

@@ -6,6 +6,8 @@ An array of scripts and projects covering a large spectrum of areas to help spee
 
 Some of the less obvious scripts do have examples, although not all.
 
+I would recommend the [tree view](https://github.com/buunguyen/octotree) extension to peruse the repo more efficiently.
+
 ## Features
 
 Just some of the features of this repo:
